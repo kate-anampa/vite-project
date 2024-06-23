@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nombre": "Katherin",
+      "apellido": "Anampa",
+      "pais": "Peru"
+    },
+    {
+      "id": "d640",
+      "nombre": "angela",
+      "apellido": "aguilar",
+      "pais": "mexico"
+    },
+    {
+      "id": "41ab",
+      "nombre": "angel",
+      "apellido": "flores",
+      "pais": "jamaica"
+    }
+  ]
+}
